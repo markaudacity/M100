@@ -1,5 +1,5 @@
 # M100
-Hardware mods and replacement parts for the Tandy/Radio Shack Model 100, 102, and 200 portable computers.
+Hardware mods and replacement parts for the Tandy/Radio Shack Model 100, 102, and 200 portable computers. Where applicable, I'll upload both print-ready STL files for 3D printing as well as STEP files for those who wish to edit/tweak/remix.
 
 
 ## Replacement Parts
